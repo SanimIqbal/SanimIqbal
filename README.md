@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SanimIqbal
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning tableau
-- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me sanimiqbal@gmail.com
 
 <!---
